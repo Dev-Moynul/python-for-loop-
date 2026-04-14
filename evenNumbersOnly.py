@@ -1,7 +1,7 @@
-'''num=int(input())
+num=int(input())
 for x in range(1,num+1):
     if x%2==0:
-            print(x,end=" ")'''
+            print(x,end=" ")
 
 
 # better solution
